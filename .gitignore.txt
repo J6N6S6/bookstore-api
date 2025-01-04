@@ -1,0 +1,58 @@
+# Windows system files
+Thumbs.db
+ehthumbs.db
+
+# VS Code directory
+.vscode/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer files (installers)
+*.exe
+*.dll
+
+# Windows installer logs
+*.log
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# .NET Build files
+bin/
+obj/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# ASP.NET temporary files
+Temporary ASP.NET Files/
+
+# User-specific files (JetBrains Rider)
+.idea/
+
+# NPM packages
+node_modules/
+
+# JetBrains Rider
+.idea/
+
+# VS for Mac
+.vscode/
+
+# .NET Core SDK
+.dotnet/
+
+# .NET Core global tools
+dotnet-tools/
+
+# User-specific files (Visual Studio for Mac)
+.vscode/

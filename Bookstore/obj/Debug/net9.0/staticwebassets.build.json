@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "XcrRQ3ZpK3agp5NXkqu3y05NRzREyUYpreXMsv8leuA=",
+  "Source": "Bookstore",
+  "BasePath": "_content/Bookstore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

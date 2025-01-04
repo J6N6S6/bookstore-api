@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Repos\\Bookstore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F4474A6-AF82-4860-94D4-AF804F62F487}|Bookstore\\Bookstore.csproj|d:\\repos\\bookstore\\bookstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F4474A6-AF82-4860-94D4-AF804F62F487}|Bookstore\\Bookstore.csproj|solutionrelative:bookstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F4474A6-AF82-4860-94D4-AF804F62F487}|Bookstore\\Bookstore.csproj|d:\\repos\\bookstore\\bookstore\\controllers\\bookstorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F4474A6-AF82-4860-94D4-AF804F62F487}|Bookstore\\Bookstore.csproj|solutionrelative:bookstore\\controllers\\bookstorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F4474A6-AF82-4860-94D4-AF804F62F487}|Bookstore\\Bookstore.csproj|d:\\repos\\bookstore\\bookstore\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F4474A6-AF82-4860-94D4-AF804F62F487}|Bookstore\\Bookstore.csproj|solutionrelative:bookstore\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F4474A6-AF82-4860-94D4-AF804F62F487}|Bookstore\\Bookstore.csproj|d:\\repos\\bookstore\\bookstore\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F4474A6-AF82-4860-94D4-AF804F62F487}|Bookstore\\Bookstore.csproj|solutionrelative:bookstore\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Repos\\Bookstore\\Bookstore\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Bookstore\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Repos\\Bookstore\\Bookstore\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Bookstore\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAowD4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T15:44:16.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "D:\\Repos\\Bookstore\\Bookstore\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Bookstore\\Controllers\\BooksController.cs",
+              "ToolTip": "D:\\Repos\\Bookstore\\Bookstore\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Bookstore\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAADwv08AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T15:25:03.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Repos\\Bookstore\\Bookstore\\Program.cs",
+              "RelativeDocumentMoniker": "Bookstore\\Program.cs",
+              "ToolTip": "D:\\Repos\\Bookstore\\Bookstore\\Program.cs",
+              "RelativeToolTip": "Bookstore\\Program.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAIwGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T14:02:27.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookstoreController.cs",
+              "DocumentMoniker": "D:\\Repos\\Bookstore\\Bookstore\\Controllers\\BookstoreController.cs",
+              "RelativeDocumentMoniker": "Bookstore\\Controllers\\BookstoreController.cs",
+              "ToolTip": "D:\\Repos\\Bookstore\\Bookstore\\Controllers\\BookstoreController.cs",
+              "RelativeToolTip": "Bookstore\\Controllers\\BookstoreController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T02:27:18.051Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
